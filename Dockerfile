@@ -12,3 +12,5 @@ RUN apt-get -y install apache2 php5 php5-mysql
 
 EXPOSE 80
 EXPOSE 443
+
+#CMD "php -v"
